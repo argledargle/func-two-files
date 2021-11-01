@@ -33,3 +33,5 @@ Expected output: `Red Apple Green Banana`
 - The ability to handle more than two files
 - Include the ability to include words separated by line breaks
 - The ability to select how many words get added to the mix
+- Add tests for multiple outcomes
+- Add messaging when there are fewer words than anticipated
